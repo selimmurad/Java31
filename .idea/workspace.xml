@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2fd3cd-2d02-408f-bb14-1c831d5c7f3f" name="Changes" comment="lesson2">
+    <list default="true" id="5f2fd3cd-2d02-408f-bb14-1c831d5c7f3f" name="Changes" comment="lesson3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/itstep/lesson3/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itstep/lesson3/homework/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itstep/lesson4/homework/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itstep/lesson4/homework/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.itstep.lesson3.homework.HomeWork2">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.itstep.lesson2.homework.HomeWork1" />
       <module name="Java31" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itstep.lesson1.Test" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.lesson4.homework.Task2" />
       <module name="Java31" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itstep.lesson1.*" />
+          <option name="PATTERN" value="org.itstep.lesson4.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.org.itstep.lesson3.homework.HomeWork2" />
         <item itemvalue="Application.HomeWork3" />
         <item itemvalue="Application.HomeWork2" />
         <item itemvalue="Application.HomeWork1" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699903606847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson3">
+      <option name="closed" value="true" />
+      <created>1699904990121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699904990121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +161,8 @@
     <MESSAGE value="lesson1" />
     <MESSAGE value="lesson4" />
     <MESSAGE value="lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
+    <MESSAGE value="lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
