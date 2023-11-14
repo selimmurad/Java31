@@ -12,7 +12,7 @@ public class Task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Введіть рядок: ");
+        System.out.print("Введіть рдок: ");
         String text = scanner.nextLine();
 
         System.out.print("Введіть слово для пошуку: ");
